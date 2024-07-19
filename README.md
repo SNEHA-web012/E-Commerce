@@ -1,0 +1,1 @@
+An e-commerce website dedicated to fashion dresses offers a dynamic and engaging platform for customers to explore and purchase the latest trends in women's apparel. This type of website typically features a wide range of dress styles, from casual wear to formal attire, catering to diverse fashion preferences and occasions.Made this Website using Html, Css and Java
